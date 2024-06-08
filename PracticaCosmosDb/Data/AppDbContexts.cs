@@ -1,5 +1,6 @@
-﻿using PracticaCosmosDb.Model;
-using System.Data.Entity;
+﻿using Microsoft.EntityFrameworkCore;
+using PracticaCosmosDb.Model;
+
 
 namespace PracticaCosmosDb.Data
 {
