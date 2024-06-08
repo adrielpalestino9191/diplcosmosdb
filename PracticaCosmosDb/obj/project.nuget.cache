@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfU1Mn0aKi8xle4zzoGsAYaZEUij5h5BQgjd80lo/M6i8HzHTV+5JeF2OtYqUMPkw3Ey+4+8ZvWfVVLqOPMIlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrie\\source\\repos\\PracticaCosmosDb\\PracticaCosmosDb\\PracticaCosmosDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
